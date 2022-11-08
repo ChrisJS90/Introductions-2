@@ -1,0 +1,2 @@
+1. Use Google to find techinques
+2. Practise using git instead of using file explorer to get used to differtent commands
